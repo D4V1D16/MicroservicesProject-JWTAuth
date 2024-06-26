@@ -1,0 +1,11 @@
+venv/
+.env/
+.vscode
+__pycache__/
+.tests
+*.py[cod]
+fernet_key.txt
+.pytest_cache/
+.database
+.vscode
+JWTAuthAPITesting
